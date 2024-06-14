@@ -23,5 +23,7 @@ Readers should have a basic understanding of:
 For a practical application of these concepts, refer to the tutorial available as:
 - [Run the Notebook in Colab](https://colab.research.google.com/drive/14tMvT82icSNRZZKN-Z2BKGIRH5-RCMpK#scrollTo=BBhBkJffYg_b)
 
+The primer has been tested on Linux and OS X platforms.
+
 Feel free to explore the notebook, experiment with the code, and dive deeper into the transformative application of Transformers in genomics!
 
