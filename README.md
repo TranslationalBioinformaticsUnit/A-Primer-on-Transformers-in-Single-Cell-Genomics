@@ -21,7 +21,6 @@ Readers should have a basic understanding of:
 
 ## Tutorial
 For a practical application of these concepts, refer to the tutorial available as:
-- [Python Notebook on GitHub](https://github.com/sumeer1/A-Primer-on-Transformers-in-Single-Cell-Genomics/blob/main/A%20Primer%20on%20Transformers%20for%20Cell%20Type%20Annotation.ipynb)
 - [Run the Notebook in Colab](https://colab.research.google.com/drive/14tMvT82icSNRZZKN-Z2BKGIRH5-RCMpK#scrollTo=BBhBkJffYg_b)
 
 Feel free to explore the notebook, experiment with the code, and dive deeper into the transformative application of Transformers in genomics!
