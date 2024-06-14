@@ -37,7 +37,7 @@ All necessary data files and detailed instructions are provided within the noteb
 
 ## Tutorial
 For a practical application of these concepts, refer to the tutorial available as:
-- [Run the Notebook in Colab](https://colab.research.google.com/drive/14tMvT82icSNRZZKN-Z2BKGIRH5-RCMpK#scrollTo=BBhBkJffYg_b)
+- [Run the Notebook in Colab :A Primer on Transformers in Single-Cell Genomics](https://colab.research.google.com/drive/14tMvT82icSNRZZKN-Z2BKGIRH5-RCMpK#scrollTo=BBhBkJffYg_b)
 
 ## System Requirements
 
@@ -50,5 +50,5 @@ This tutorial and the associated tools are designed to be platform-independent a
   - **macOS**: Tested and fully supported with similar requirements as Linux.
     
 
-Feel free to explore the notebook, experiment with the code, and dive deeper into the transformative application of Transformers in genomics!
+Feel free to explore the notebook, experiment with the code, and dive deeper into the application of Transformers in genomics!
 
