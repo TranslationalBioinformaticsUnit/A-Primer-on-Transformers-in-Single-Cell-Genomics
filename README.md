@@ -49,8 +49,6 @@ This tutorial and the associated tools are designed to be platform-independent a
   - **Linux**: Tested and fully supported. Ensure you have Python installed, along with pip for package management.
   - **macOS**: Tested and fully supported with similar requirements as Linux.
     
-For the best experience, especially when working with large datasets, a minimum of 8 GB of RAM is recommended. If running locally, Python 3.6 or later is required, and installation of necessary Python packages as described in the [Installation Guide](#installation-guide) section of this README.
-
 
 Feel free to explore the notebook, experiment with the code, and dive deeper into the transformative application of Transformers in genomics!
 
