@@ -46,8 +46,9 @@ This tutorial and the associated tools are designed to be platform-independent a
 - **Google Colab**: For a hassle-free setup and no local system requirements, you can run the notebook directly in [Google Colab](https://colab.research.google.com/github/sumeer1/A-Primer-on-Transformers-in-Single-Cell-Genomics/blob/main/A%20Primer%20on%20Transformers%20for%20Cell%20Type%20Annotation.ipynb). This platform automatically handles all dependencies and provides a robust environment with GPU support.
 
 - **Local Environments**:
-  - **Linux**: Tested and fully supported. Ensure you have Python installed, along with pip for package management.
-  - **macOS**: Tested and fully supported with similar requirements as Linux.
+  - **Linux**: Tested on macOS Sonoma (14.5). Ensure you have Python installed, along with pip for package management.
+  - **macOS**: Tested on Ubuntu 20.04 with similar requirements as Linux.
+ 
     
 
 Feel free to explore the notebook, experiment with the code, and dive deeper into the application of Transformers in genomics!
