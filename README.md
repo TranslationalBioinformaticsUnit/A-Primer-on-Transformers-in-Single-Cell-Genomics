@@ -1,4 +1,4 @@
-# Multimodal Foundation Transformer Models for Multiscale Genomics
+# A Primer on Transformers in Single-Cell Genomics
 
 ![Schematic](https://github.com/sumeer1/A-Primer-on-Transformers-in-Single-Cell-Genomics/assets/70262340/f799ee26-b884-422d-8000-8fac5a2872e9)
 
